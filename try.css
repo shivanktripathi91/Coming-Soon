@@ -1,0 +1,52 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bgimg {
+  background-image: url('final.jpg');
+
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+.middle h1
+{
+  
+}
+.middle p
+{
+  color: #ff7b25;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+
+
+
+
+.middle {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #3e4444;
+}
+.vs{
+  position:absolute;
+  top:25%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+
+}
+
+hr {
+  margin: auto;
+  width: 40%;
+}
